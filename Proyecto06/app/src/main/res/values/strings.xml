@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Proyecto06</string>
+
+
+    <string name="tv1">¿Cual fue el numero que vio?</string>
+    <string name="btn1">Validar</string>
+</resources>
